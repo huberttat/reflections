@@ -17,6 +17,7 @@ organized? How would branches help?
 	also it can help me organize and keel tracking the change and dont have to worry i will mess up the master version.
 
 How do the diagrams help you visualize the branch structure?
+	this helps me understand the logic of braches works and how to avoid not accessable commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
