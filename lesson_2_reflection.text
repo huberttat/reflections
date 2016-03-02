@@ -25,5 +25,5 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	if the is represent in the diagram version. This can help us to understand the history anf struction of different commit more clearly.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing mergesmanually?
+	by using git auto merging. it can save me many time and to locate confict between code. This can save me a lot of time.
