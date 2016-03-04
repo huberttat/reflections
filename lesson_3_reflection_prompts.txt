@@ -4,7 +4,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Gitautomatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    i am not really sure. In my opinion stay up-to-dat is a much better to store backup. 
+    but if that are muiltply people working in the same programme. auto commit will casue a mess.
 
 Describe the differences between forks, clones, and branches.  When would youuse one instead of another?
 
