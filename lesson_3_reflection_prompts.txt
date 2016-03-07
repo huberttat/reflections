@@ -19,7 +19,7 @@ What is the benefit of having a copy of the last known state of the remotestored
 	
 How would you collaborate without using Git or GitHub?  What would be easier,and what would be harder?
 
-    Fill in your answer here
+    may be by cloude drive. but in my opinin this is much hard for merging code. yet is will be a bit erasier to use. boz git and git hub invole many command line.
 
 When would you want to make changes in a separate branch rather than directly inmaster?  What benefits does each approach have?
 
